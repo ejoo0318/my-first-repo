@@ -1,0 +1,2 @@
+Practice
+git init 설정 취소 => 해당위치의 'git'폴더를 삭제
